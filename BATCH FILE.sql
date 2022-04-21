@@ -1,0 +1,8 @@
+USE DB_Programming
+
+--------------BATCH FILE EXECUTIONS---------------
+CREATE TABLE BATCH 
+(
+ID INT PRIMARY KEY ,
+[NAME] VARCHAR (50)
+)
